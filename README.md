@@ -16,7 +16,13 @@ The varaible used in the dataset are described below:
 7. charges -  shows the premium charges for that user.
 
 ### Library used
-* pandasnumpy,matplotlib,seaborn,warnings,datetime
+* pandas
+* numpy
+* matplotlib
+* seaborn
+* warnings
+* sklearn
+* math
 
 ### Insights from the data
 1. We can see the peak at young people and for others the data is even.
