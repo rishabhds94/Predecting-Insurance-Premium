@@ -1,4 +1,4 @@
-# Predecting-Insurance-Premium
+# Predicting-Insurance-Premium
 Predict insurance premium for new users
 ### Introduction
 This project is focused on Predicting Insurance Premium using Machine Learning regression techniques like Linear Regression, Decission Tree Regressor and Random Forest Regressor, compare the performance of these models and choose the best model for production.
